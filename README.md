@@ -2,7 +2,7 @@
 
 ![BG-BT1W](https://github.com/user-attachments/assets/a37e6533-3d26-472e-9849-3f8e7589b346)
 
-Šiame pavyzdyje parodyta, kaip **Tempwise BG-BT1W** Bluetooth termometro duomenis perduoti į **Home Assistant** naudojant **MQTT** brokerį.
+Šiame projekte parodyta, kaip **Tempwise BG-BT1W** Bluetooth termometro duomenis perduoti į **Home Assistant** naudojant **MQTT** brokerį.
 
 ---
 
