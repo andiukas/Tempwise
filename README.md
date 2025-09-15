@@ -6,6 +6,22 @@
 
 ---
 
+## Python scriptas
+1. **Skripto failo sukūrimas terminale** → nano /root/bg_bt1w.py
+2. **Pateikto skripto Github išsaugojimas** → /root/bg_bt1w.py CTRL+O, ENTER, CTRL+X
+3. **Python skripto paleidimas terminale** → python3 /root/bg_bt1w.py
+
+**Jei viskas gerai, terminale pamatysi:**
+✅ Prisijungta prie įrenginio!
+✅ MQTT prisijungta sėkmingai
+
+
+1. 🌡️ Temperatūra: 0.29 °C
+2. 🌡️ Temperatūra: 0.29 °C
+3. 🌡️ Temperatūra: 0.29 °C
+...
+
+
 ## Duomenų srautas
 1. **Termometras** → Bluetooth → **Python/MQTT skriptas** (publikuoja duomenis į brokerį)  
 2. **MQTT brokeris** → Home Assistant (per MQTT integraciją)  
