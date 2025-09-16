@@ -41,10 +41,13 @@ mqtt:
       state_topic: "home/sensors/temp"
       unit_of_measurement: "°C"
       device_class: temperature
+      value_template: "{{ (value | float * 100) | round(0) }}"
+
 
 ## Parametrų paaiškinimas
 name – sensoriaus pavadinimas, rodomas Home Assistant
 state_topic – MQTT temos adresas, į kurį publikuojami duomenys (pvz. home/sensors/temp)
 unit_of_measurement – matavimo vienetai (°C)
 device_class – nurodo, kad tai temperatūros sensorius
+value_template - reikšmę sensoriaus padauginta iš 100
 
