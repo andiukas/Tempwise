@@ -12,14 +12,15 @@
 3. **Python skripto paleidimas terminale** → python3 /root/bg_bt1w.py
 
 **Jei viskas gerai, terminale pamatysi:**
-✅ Prisijungta prie įrenginio!
-✅ MQTT prisijungta sėkmingai
 
 
-1. 🌡️ Temperatūra: 0.29 °C
-2. 🌡️ Temperatūra: 0.29 °C
-3. 🌡️ Temperatūra: 0.29 °C
-...
+✅ Prisijungta prie įrenginio!  
+✅ MQTT prisijungta sėkmingai  
+
+🌡️ Temperatūra: 0.29 °C  
+🌡️ Temperatūra: 0.29 °C  
+🌡️ Temperatūra: 0.29 °C  
+
 
 
 ## Duomenų srautas
