@@ -8,7 +8,7 @@
 
 ## Python scriptas
 1. **Skripto failo sukūrimas terminale** → nano /root/bg_bt1w.py
-2. **Pateikto skripto Github išsaugojimas** → CTRL+O, ENTER, CTRL+X
+2. **Pateikto skripto išsaugojimas** → CTRL+O, ENTER, CTRL+X
 3. **Python skripto paleidimas terminale** → python3 /root/bg_bt1w.py
 
 **Jei viskas gerai, terminale pamatysi:**
