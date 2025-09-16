@@ -49,5 +49,5 @@ name – sensoriaus pavadinimas, rodomas Home Assistant
 state_topic – MQTT temos adresas, į kurį publikuojami duomenys (pvz. home/sensors/temp)
 unit_of_measurement – matavimo vienetai (°C)
 device_class – nurodo, kad tai temperatūros sensorius
-value_template - reikšmę sensoriaus padauginta iš 100
+value_template - sensoriaus reikšmė padauginta iš 100
 
