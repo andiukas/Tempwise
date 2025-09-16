@@ -25,7 +25,7 @@
 ## Duomenų srautas
 1. **Termometras** → Bluetooth → **Python/MQTT skriptas** (publikuoja duomenis į brokerį)  
 2. **MQTT brokeris** → Home Assistant (per MQTT integraciją)  
-3. **Home Assistant** → sukuria sensorių ir atvaizduoja temperatūrą
+3. **Home Assistant** → Sukuria sensorių ir atvaizduoja temperatūrą
 
 ---
 
