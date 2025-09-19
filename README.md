@@ -1,6 +1,6 @@
 # Tempwise BG-BT1W BBQ termometro integracija į Home Assistant per MQTT
 
-![BG-BT1W](https://github.com/user-attachments/assets/a37e6533-3d26-472e-9849-3f8e7589b346)
+![BG-BT1W](https://community-assets.home-assistant.io/optimized/4X/0/c/4/0c4ffbc1a4196d3ebedfa5c810443c94739930b1_2_500x500.jpeg)
 
 Šiame projekte parodyta, kaip **Tempwise BG-BT1W** Bluetooth termometro duomenis perduoti į **Home Assistant** naudojant **MQTT** brokerį.
 
